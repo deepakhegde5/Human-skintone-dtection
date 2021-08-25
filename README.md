@@ -1,2 +1,2 @@
 # Human-skintone-dtection
-#python #sklearn #machinelearning#django
+#python #sklearn #machinelearning
